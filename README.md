@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=madhusgowda&show_icons=true&theme=gotham" alt="madhusgowda" /></p> -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusgowda&layout=compact&langs_count=15&theme=dark">
+
 <!--
 **madhusgowda/madhusgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
