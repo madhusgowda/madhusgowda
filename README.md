@@ -2,7 +2,8 @@
 
 <!--<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=madhusgowda&show_icons=true&theme=gotham" alt="madhusgowda" /></p> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusgowda&layout=compact&langs_count=15&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusgowda&layout=compact&langs_count=15&theme=dark">  _  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/650203983ee87ab4ca506a09?variant=dark&roadmaps=golang)](https://roadmap.sh)
+
 
 [![@madhusgowda's Holopin board](https://holopin.io/api/user/board?user=madhusgowda)](https://holopin.io/@madhusgowda)
 <!--
